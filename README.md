@@ -2,7 +2,7 @@
 # Elgoog Search Engine (CSS 142 Final Project)
 
 **Project Overview:**
-Elgoog Search Engine is a project for my CSS 142 class at UW designed to manage and search through collections of documents that consist of lists of English words. It handles search queries composed of English word phrases, returning a sorted list of document IDs containing exact matches of the search phrase, including both words and order.
+Elgoog Search Engine is a group project for my CSS 142 class at UW designed to manage and search through collections of documents that consist of lists of English words. It handles search queries composed of English word phrases, returning a sorted list of document IDs containing exact matches of the search phrase, including both words and order.
 
 
 **Project Components:**
